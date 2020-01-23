@@ -6,7 +6,7 @@
 package studentlist;
 
 /**
- *iyuiyiuyi
+ *iyuiyiuyiigtitifititi
  * @author srinivsi
  */
 public class Student
